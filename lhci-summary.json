@@ -1,0 +1,434 @@
+[
+  {
+    "reportFile": "lhr-1733900422245.json",
+    "timestamp": "2024-12-11T07:15:09.683Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.68,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "3.3 s",
+      "firstContentfulPaint": "0.5 s",
+      "totalBlockingTime": "210 ms",
+      "cumulativeLayoutShift": "0",
+      "speedIndex": "2.9 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900444178.json",
+    "timestamp": "2024-12-11T07:15:09.697Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.78,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "2.5 s",
+      "firstContentfulPaint": "0.5 s",
+      "totalBlockingTime": "230 ms",
+      "cumulativeLayoutShift": "0",
+      "speedIndex": "1.2 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900466943.json",
+    "timestamp": "2024-12-11T07:15:09.710Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.81,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "2.3 s",
+      "firstContentfulPaint": "0.5 s",
+      "totalBlockingTime": "210 ms",
+      "cumulativeLayoutShift": "0",
+      "speedIndex": "1.1 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900499388.json",
+    "timestamp": "2024-12-11T07:15:09.722Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.41,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "12.7 s",
+      "firstContentfulPaint": "3.2 s",
+      "totalBlockingTime": "1,250 ms",
+      "cumulativeLayoutShift": "0.107",
+      "speedIndex": "3.2 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900522529.json",
+    "timestamp": "2024-12-11T07:15:09.734Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.44,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "12.4 s",
+      "firstContentfulPaint": "2.9 s",
+      "totalBlockingTime": "1,090 ms",
+      "cumulativeLayoutShift": "0.105",
+      "speedIndex": "3.1 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900548102.json",
+    "timestamp": "2024-12-11T07:15:09.745Z",
+    "url": "https://www.nvent.com/en-in/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.54,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "4.8 s",
+      "firstContentfulPaint": "2.0 s",
+      "totalBlockingTime": "1,130 ms",
+      "cumulativeLayoutShift": "0.107",
+      "speedIndex": "3.4 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900583792.json",
+    "timestamp": "2024-12-11T07:15:09.755Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.83,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "2.3 s",
+      "firstContentfulPaint": "1.0 s",
+      "totalBlockingTime": "70 ms",
+      "cumulativeLayoutShift": "0",
+      "speedIndex": "1.9 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900606226.json",
+    "timestamp": "2024-12-11T07:15:09.767Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.83,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "2.3 s",
+      "firstContentfulPaint": "0.5 s",
+      "totalBlockingTime": "180 ms",
+      "cumulativeLayoutShift": "0",
+      "speedIndex": "1.0 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900627639.json",
+    "timestamp": "2024-12-11T07:15:09.781Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.85,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "2.0 s",
+      "firstContentfulPaint": "0.4 s",
+      "totalBlockingTime": "170 ms",
+      "cumulativeLayoutShift": "0.001",
+      "speedIndex": "1.0 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900661938.json",
+    "timestamp": "2024-12-11T07:15:09.795Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.43,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "11.4 s",
+      "firstContentfulPaint": "3.3 s",
+      "totalBlockingTime": "1,040 ms",
+      "cumulativeLayoutShift": "0.107",
+      "speedIndex": "3.3 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900697237.json",
+    "timestamp": "2024-12-11T07:15:09.807Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.4,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "12.8 s",
+      "firstContentfulPaint": "3.1 s",
+      "totalBlockingTime": "1,510 ms",
+      "cumulativeLayoutShift": "0.105",
+      "speedIndex": "3.5 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900724542.json",
+    "timestamp": "2024-12-11T07:15:09.819Z",
+    "url": "https://www.nvent.com/en-us/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.42,
+      "accessibility": 0.9,
+      "seo": 0.85
+    },
+    "audits": {
+      "largestContentfulPaint": "12.7 s",
+      "firstContentfulPaint": "3.0 s",
+      "totalBlockingTime": "1,250 ms",
+      "cumulativeLayoutShift": "0.106",
+      "speedIndex": "3.0 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900944252.json",
+    "timestamp": "2024-12-11T07:15:09.825Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.46,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "3.8 s",
+      "firstContentfulPaint": "1.2 s",
+      "totalBlockingTime": "560 ms",
+      "cumulativeLayoutShift": "0.042",
+      "speedIndex": "3.4 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733900972020.json",
+    "timestamp": "2024-12-11T07:15:09.831Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.37,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "3.2 s",
+      "firstContentfulPaint": "1.1 s",
+      "totalBlockingTime": "550 ms",
+      "cumulativeLayoutShift": "0.255",
+      "speedIndex": "2.9 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901000771.json",
+    "timestamp": "2024-12-11T07:15:09.836Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.49,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "3.0 s",
+      "firstContentfulPaint": "1.2 s",
+      "totalBlockingTime": "200 ms",
+      "cumulativeLayoutShift": "0.321",
+      "speedIndex": "5.0 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901033966.json",
+    "timestamp": "2024-12-11T07:15:09.840Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.28,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "5.5 s",
+      "firstContentfulPaint": "2.5 s",
+      "totalBlockingTime": "2,450 ms",
+      "cumulativeLayoutShift": "0.246",
+      "speedIndex": "7.9 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901059614.json",
+    "timestamp": "2024-12-11T07:15:09.844Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.36,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "6.0 s",
+      "firstContentfulPaint": "2.4 s",
+      "totalBlockingTime": "940 ms",
+      "cumulativeLayoutShift": "0.255",
+      "speedIndex": "6.1 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901080883.json",
+    "timestamp": "2024-12-11T07:15:09.850Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.45,
+      "accessibility": 0.86,
+      "seo": 0.61
+    },
+    "audits": {
+      "largestContentfulPaint": "4.3 s",
+      "firstContentfulPaint": "2.3 s",
+      "totalBlockingTime": "820 ms",
+      "cumulativeLayoutShift": "0.246",
+      "speedIndex": "6.3 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901123784.json",
+    "timestamp": "2024-12-11T07:15:09.855Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.45,
+      "accessibility": 0.82,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "3.0 s",
+      "firstContentfulPaint": "1.5 s",
+      "totalBlockingTime": "560 ms",
+      "cumulativeLayoutShift": "0.074",
+      "speedIndex": "6.4 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901156264.json",
+    "timestamp": "2024-12-11T07:15:09.864Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.43,
+      "accessibility": 0.82,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "3.1 s",
+      "firstContentfulPaint": "1.1 s",
+      "totalBlockingTime": "1,190 ms",
+      "cumulativeLayoutShift": "0.071",
+      "speedIndex": "3.2 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901186595.json",
+    "timestamp": "2024-12-11T07:15:09.869Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "desktop",
+    "categories": {
+      "performance": 0.56,
+      "accessibility": 0.82,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "2.8 s",
+      "firstContentfulPaint": "1.1 s",
+      "totalBlockingTime": "430 ms",
+      "cumulativeLayoutShift": "0.081",
+      "speedIndex": "2.7 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901244213.json",
+    "timestamp": "2024-12-11T07:15:09.874Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.27,
+      "accessibility": 0.83,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "5.0 s",
+      "firstContentfulPaint": "2.3 s",
+      "totalBlockingTime": "4,520 ms",
+      "cumulativeLayoutShift": "0.305",
+      "speedIndex": "7.4 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901274861.json",
+    "timestamp": "2024-12-11T07:15:09.881Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.31,
+      "accessibility": 0.83,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "4.9 s",
+      "firstContentfulPaint": "2.4 s",
+      "totalBlockingTime": "1,680 ms",
+      "cumulativeLayoutShift": "0.308",
+      "speedIndex": "6.2 s"
+    }
+  },
+  {
+    "reportFile": "lhr-1733901298918.json",
+    "timestamp": "2024-12-11T07:15:09.885Z",
+    "url": "https://drreddysproducts.drreddys.acsitefactory.com/otcproducts/new-otc-product",
+    "runType": "mobile",
+    "categories": {
+      "performance": 0.25,
+      "accessibility": 0.83,
+      "seo": 0.54
+    },
+    "audits": {
+      "largestContentfulPaint": "7.9 s",
+      "firstContentfulPaint": "2.3 s",
+      "totalBlockingTime": "1,720 ms",
+      "cumulativeLayoutShift": "0.321",
+      "speedIndex": "5.6 s"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2024-12-11T07:14:58.999Z",
+  "categories": {
+    "performance": {
+      "title": "Performance",
+      "score": 0.25
+    },
+    "accessibility": {
+      "title": "Accessibility",
+      "score": 0.83
+    },
+    "best-practices": {
+      "title": "Best Practices",
+      "score": 0.96
+    },
+    "seo": {
+      "title": "SEO",
+      "score": 0.54
+    }
+  },
+  "audits": {
+    "largestContentfulPaint": "7.9 s",
+    "firstContentfulPaint": "2.3 s",
+    "cumulativeLayoutShift": "0.321",
+    "speedIndex": "5.6 s"
+  }
+}
